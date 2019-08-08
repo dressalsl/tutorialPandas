@@ -10,3 +10,5 @@
 ### <p> 4 - Usando iLoc </p>
 ### <p> 5 - Usando Selecionadores de dados </p>
 ### <p> 6 - Método isin </p>
+### <p> 7 - Usando o Regex </p>
+### <p> 8 - Plotando gráficos </p>
