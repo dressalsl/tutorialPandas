@@ -1,6 +1,6 @@
-# Tutorial da bibllioteca Pandas.
+# Tutorial da Bibllioteca Pandas.
 
-## Nesse tutorial sera usado: 
+## Nesse tutorial será usado: 
 ## <p> - Dataset sobre microcefalia causado pelo virus Zika no Brasil no período de 2016: https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/brazil/brazil-microcephaly-2016-01-23-table-1.csv
 ## - Dataset sobre banco download : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing </p>
 
