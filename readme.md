@@ -6,9 +6,10 @@
 
 ### <p> 1 - Abrindo CSV </p>
 ### <p> 2 - Selecionando Dados </p>
-### <p> 3 - Usando Loc </p>
-### <p> 4 - Usando iLoc </p>
+### <p> 3 - Usando loc[] </p>
+### <p> 4 - Usando iloc[] </p>
 ### <p> 5 - Usando Selecionadores de dados </p>
-### <p> 6 - Método isin </p>
-### <p> 7 - Usando o Regex </p>
+### <p> 6 - Método isin() </p>
+### <p> 7 - Usando o filter() </p>
 ### <p> 8 - Plotando gráficos </p>
+### <p> 9 - Usando o groupby() </p>
