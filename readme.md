@@ -13,3 +13,4 @@
 ### <p> 7 - Usando o filter() </p>
 ### <p> 8 - Plotando gráficos </p>
 ### <p> 9 - Usando o groupby() </p>
+### <p> 10 - Estilizando Tabelas </p>
