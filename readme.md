@@ -2,7 +2,7 @@
 
 ## Nesse tutorial será usado: 
 ## <p> - Dataset sobre microcefalia causado pelo virus Zika no Brasil no período de 2016: https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/brazil/brazil-microcephaly-2016-01-23-table-1.csv
-## - Dataset sobre banco download : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing </p>
+## - Dataset - banco download : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing </p>
 
 ### <p> 1 - Abrindo CSV </p>
 ### <p> 2 - Selecionando Dados </p>
