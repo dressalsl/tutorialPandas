@@ -12,16 +12,16 @@ Links dos Datasets:
 ## Trilha do tutorial: :books:
 
 ### <p> 1 - Abrindo Arquivos </p>
-[2 - Primeiros passos](https://github.com/dressalsl/tutorialPandas/blob/master/1-%20abrirCsv.ipynb) 
-[3 - Selecionando Dados](https://github.com/dressalsl/tutorialPandas/blob/master/2-%20SelecionandoDadosDataFrame.ipynb)
-[4 - Usando loc](https://github.com/dressalsl/tutorialPandas/blob/master/3-%20usandoLocParaSelecionarDados.ipynb)
-[5 - Usando iloc](https://github.com/dressalsl/tutorialPandas/blob/master/4-%20usandoIlocParaSelecionarDados.ipynb)
-[6 - Usando Selecionadores de dados](https://github.com/dressalsl/tutorialPandas/blob/master/5-%20usandoSelecionadores.ipynb)
-[7 - Método isin()](https://github.com/dressalsl/tutorialPandas/blob/master/6-%20metodoIsin.ipynb)
-[8 - Usando o filter()](https://github.com/dressalsl/tutorialPandas/blob/master/7-%20usandoFilter.ipynb)
-[9 - Plotando gráficos](https://github.com/dressalsl/tutorialPandas/blob/master/8-%20plotandoGrafico.ipynb)
-[10 - Usando o groupby()](https://github.com/dressalsl/tutorialPandas/blob/master/9-%20metodoGroupby.ipynb)
-[11 - Estilizando Tabelas](https://github.com/dressalsl/tutorialPandas/blob/master/10-%20estilizandoTabelas.ipynb)
+2 - [Primeiros passos](https://github.com/dressalsl/tutorialPandas/blob/master/1-%20abrirCsv.ipynb) 
+3 - [Selecionando Dados](https://github.com/dressalsl/tutorialPandas/blob/master/2-%20SelecionandoDadosDataFrame.ipynb)
+4 - [Usando loc](https://github.com/dressalsl/tutorialPandas/blob/master/3-%20usandoLocParaSelecionarDados.ipynb)
+5 - [Usando iloc](https://github.com/dressalsl/tutorialPandas/blob/master/4-%20usandoIlocParaSelecionarDados.ipynb)
+6 - [Usando Selecionadores de dados](https://github.com/dressalsl/tutorialPandas/blob/master/5-%20usandoSelecionadores.ipynb)
+7 - [Método isin()](https://github.com/dressalsl/tutorialPandas/blob/master/6-%20metodoIsin.ipynb)
+8 - [Usando o filter()](https://github.com/dressalsl/tutorialPandas/blob/master/7-%20usandoFilter.ipynb)
+9 - [Plotando gráficos](https://github.com/dressalsl/tutorialPandas/blob/master/8-%20plotandoGrafico.ipynb)
+10 - [Usando o groupby()](https://github.com/dressalsl/tutorialPandas/blob/master/9-%20metodoGroupby.ipynb)
+11 - [Estilizando Tabelas](https://github.com/dressalsl/tutorialPandas/blob/master/10-%20estilizandoTabelas.ipynb)
 
 
 #### Documentação: :scroll:
