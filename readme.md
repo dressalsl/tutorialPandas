@@ -4,10 +4,9 @@ Esse repositório foi feito para introduzir o conhecimento básico da biblioteca
 
 ## Instalação :floppy_disk:
 
-Python usado : versão 3.7
-* [Download](https://www.python.org/downloads/)
-Jupyter Notebook
-* [Download](https://jupyter.org/install)
+* [Python](https://www.python.org/downloads/) (
+Python usado : versão 3.7)
+* [Jupyter Notebook](https://jupyter.org/install)
 
 
 ## Datasets :open_file_folder:
