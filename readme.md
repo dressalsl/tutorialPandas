@@ -17,6 +17,6 @@
 ### <p> 11 - Estilizando Tabelas </p>
 
 Documentação:
-*[Pyhton](https://docs.python.org/3/)
-*[Jupyter Notebook](https://jupyter.org/documentation)
-*[Biblioteca Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+* [Pyhton](https://docs.python.org/3/)
+* [Jupyter Notebook](https://jupyter.org/documentation)
+* [Biblioteca Pandas](https://pandas.pydata.org/pandas-docs/stable/)
