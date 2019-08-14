@@ -11,7 +11,6 @@ Links dos Datasets:
 
 ## Trilha do tutorial: :books:
 
-### <p> 1 - Abrindo Arquivos </p>
 2. [Primeiros passos](https://github.com/dressalsl/tutorialPandas/blob/master/1-%20abrirCsv.ipynb) 
 3. [Selecionando Dados](https://github.com/dressalsl/tutorialPandas/blob/master/2-%20SelecionandoDadosDataFrame.ipynb)
 4. [Usando loc](https://github.com/dressalsl/tutorialPandas/blob/master/3-%20usandoLocParaSelecionarDados.ipynb)
