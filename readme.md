@@ -2,6 +2,14 @@
 
 Esse repositório foi feito para introduzir o conhecimento básico da biblioteca Pandas que é uma ferramentas de análise de dados e estruturas de dados que possui uma alta performance .
 
+## Instalação :floppy_disk:
+
+Python usado : versão 3.7
+* [Download](https://www.python.org/downloads/)
+Jupyter Notebook
+* [Download](https://jupyter.org/install)
+
+
 ## Datasets :open_file_folder:
 
 Links dos Datasets:
