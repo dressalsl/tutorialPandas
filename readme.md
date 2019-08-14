@@ -28,6 +28,8 @@ Links dos Datasets:
 9. [Plotando gráficos](https://github.com/dressalsl/tutorialPandas/blob/master/8-%20plotandoGrafico.ipynb)
 10. [Usando o groupby()](https://github.com/dressalsl/tutorialPandas/blob/master/9-%20metodoGroupby.ipynb)
 11. [Estilizando Tabelas](https://github.com/dressalsl/tutorialPandas/blob/master/10-%20estilizandoTabelas.ipynb)
+12. [Análise de valores faltantes]
+
 
 ## Materiais de estudo: 
 
