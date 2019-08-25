@@ -17,18 +17,18 @@ Links dos Datasets:
 
 
 ## Trilha do tutorial: :pushpin:
-1. [Abrindo Csv]
-2. [Primeiros passos](https://github.com/dressalsl/tutorialPandas/blob/master/1-%20abrirCsv.ipynb) 
-3. [Selecionando Dados](https://github.com/dressalsl/tutorialPandas/blob/master/2-%20SelecionandoDadosDataFrame.ipynb)
-4. [Usando loc](https://github.com/dressalsl/tutorialPandas/blob/master/3-%20usandoLocParaSelecionarDados.ipynb)
-5. [Usando iloc](https://github.com/dressalsl/tutorialPandas/blob/master/4-%20usandoIlocParaSelecionarDados.ipynb)
-6. [Usando Selecionadores de dados](https://github.com/dressalsl/tutorialPandas/blob/master/5-%20usandoSelecionadores.ipynb)
-7. [Método isin()](https://github.com/dressalsl/tutorialPandas/blob/master/6-%20metodoIsin.ipynb)
-8. [Usando o filter()](https://github.com/dressalsl/tutorialPandas/blob/master/7-%20usandoFilter.ipynb)
-9. [Plotando gráficos](https://github.com/dressalsl/tutorialPandas/blob/master/8-%20plotandoGrafico.ipynb)
-10. [Usando o groupby()](https://github.com/dressalsl/tutorialPandas/blob/master/9-%20metodoGroupby.ipynb)
-11. [Estilizando Tabelas](https://github.com/dressalsl/tutorialPandas/blob/master/10-%20estilizandoTabelas.ipynb)
-12. [Análise de valores faltantes]
+01. [Abrindo Arquivos](https://github.com/dressalsl/tutorialPandas/blob/master/01%20-%20abrindoArquivos.ipynb) 
+02. [Primeiros passos](https://github.com/dressalsl/tutorialPandas/blob/master/02%20-%20primeirosPassos.ipynb) 
+03. [Selecionando Dados](https://github.com/dressalsl/tutorialPandas/blob/master/03%20-%20SelecionandoDadosDataFrame.ipynb)
+04. [Usando loc](https://github.com/dressalsl/tutorialPandas/blob/master/04%20-%20usandoLocParaSelecionarDados.ipynb)
+05. [Usando iloc](https://github.com/dressalsl/tutorialPandas/blob/master/05%20-%20usandoIlocParaSelecionarDados.ipynb)
+06. [Usando Selecionadores de dados](https://github.com/dressalsl/tutorialPandas/blob/master/5-%20usandoSelecionadores.ipynb)
+07. [Método isin()](https://github.com/dressalsl/tutorialPandas/blob/master/07%20-%20metodoIsin.ipynb)
+08. [Usando o filter()](https://github.com/dressalsl/tutorialPandas/blob/master/08%20-%20usandoFilter.ipynb)
+09. [Plotando gráficos](https://github.com/dressalsl/tutorialPandas/blob/master/09%20-%20plotandoGrafico.ipynb)
+10. [Usando o groupby()](https://github.com/dressalsl/tutorialPandas/blob/master/10%20-%20metodoGroupby.ipynb)
+11. [Estilizando Tabelas](https://github.com/dressalsl/tutorialPandas/blob/master/11%20-%20estilizandoTabelas.ipynb)
+12. [Análise de valores faltantes](https://github.com/dressalsl/tutorialPandas/blob/master/12%20-%20analiseMissingValues.ipynb)
 
 
 ## Materiais de estudo: 
