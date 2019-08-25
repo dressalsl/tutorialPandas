@@ -7,6 +7,7 @@ Esse repositório foi criado para introduzir o conhecimento básico da bibliotec
 * [Python](https://www.python.org/downloads/) (
 Python usado : versão 3.7)
 * [Jupyter Notebook](https://jupyter.org/install)
+* [Google Colab - versão online gratuita](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
 
 
 ## Datasets :open_file_folder:
