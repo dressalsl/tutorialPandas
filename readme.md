@@ -14,7 +14,9 @@ Python usado : versão 3.7)
 
 Links dos Datasets:
 * [Dataset sobre microcefalia causado pelo virus Zika no Brasil no período de 2016:](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/brazil/brazil-microcephaly-2016-01-23-table-1.csv)
-* [Dataset - banco download ](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)  
+* [Dataset - Banco download ](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)  
+* [Dataset - Consumo de Álcool em 2010 ](https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption) 
+* [Dataset - Valores ausentes ](https://www.kaggle.com/friedrichreichhart/ditloantest) 
 
 
 ## Trilha do tutorial: :pushpin:
