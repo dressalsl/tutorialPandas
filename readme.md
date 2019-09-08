@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dressalsl/tutorialPandas/]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dressalsl/tutorialPandas)
 
 # Tutorial Pandas :page_facing_up:
 
